@@ -1,9 +1,9 @@
 ActionHouse.lua optimizado para mejorar el uso de cpu.
 
-1 Descargar ActionHouse.lua de este repositorio
-2 Substituirllo por el que teneis en la carpeta del addon
-3 Reiniciar addon
-
+1 Descargar ActionHouse.lua de este repositorio<br>
+2 Substituirllo por el que teneis en la carpeta del addon<br>
+3 Reiniciar addon<br>
+<br>
 Es una optimizacion realizada por la ia y no la he probado, ya comentareis: 
 <br>
 <br>
